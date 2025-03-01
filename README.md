@@ -29,3 +29,4 @@ A collection of Arduino projects and experiments exploring embedded systems, sen
 2. Clone this repository:  
    ```bash
    git clone https://github.com/cjkreienkamp/arduino-experiments.git
+3. Open any .ino file in the Arduino IDE and upload it to your board.
